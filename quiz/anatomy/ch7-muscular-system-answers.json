@@ -1,0 +1,43 @@
+{
+  "metadata": {
+    "title": "第七章 肌肉系統 - 答案與解析",
+    "subject": "解剖生理學",
+    "chapter": "7",
+    "section": "7.1-7.4",
+    "total_questions": 30,
+    "version": "1.0",
+    "created_date": "2026-01-07"
+  },
+  "answers": [
+    {"id": 1, "answer": "D", "explanation": "肌肉組織四大特性：興奮性（對刺激反應）、收縮性（主動縮短）、伸展性（可被拉長）、彈性（回復原長）。分泌性不是肌肉特性。", "explanation_image": null},
+    {"id": 2, "answer": "B", "explanation": "興奮性（Excitability）是指肌肉細胞受刺激後能產生動作電位的能力。", "explanation_image": null},
+    {"id": 3, "answer": "B", "explanation": "收縮性（Contractility）是肌肉最重要的特性，能主動縮短產生力量。", "explanation_image": null},
+    {"id": 4, "answer": "C", "explanation": "彈性（Elasticity）是指肌肉被拉長後能回復原來長度的特性。伸展性是指能被拉長的特性。", "explanation_image": null},
+    {"id": 5, "answer": "D", "explanation": "肌肉功能：產生動作、維持姿勢、穩定關節、產生熱能（約85%體熱來自肌肉收縮）。合成荷爾蒙主要是內分泌腺的功能。", "explanation_image": null},
+    {"id": 6, "answer": "B", "explanation": "骨骼肌收縮是人體產生熱能的主要來源，約占體熱的85%。顫抖時產熱更明顯。", "explanation_image": null},
+    {"id": 7, "answer": "C", "explanation": "骨骼肌特徵：隨意肌（受意識控制）、有橫紋、多核、圓柱形。", "explanation_image": "https://lt4.mynet.com.tw/linebot/images/ch7-a7-muscle-types.png"},
+    {"id": 8, "answer": "C", "explanation": "心肌特徵：不隨意肌、有橫紋、單核（少數雙核）、分枝狀、有閏板連接。", "explanation_image": null},
+    {"id": 9, "answer": "C", "explanation": "平滑肌特徵：不隨意肌、無橫紋、單核、紡錘形。分布於內臟和血管壁。", "explanation_image": null},
+    {"id": 10, "answer": "B", "explanation": "骨骼肌纖維呈圓柱形，多核（核位於細胞周邊）。心肌呈分枝狀，平滑肌呈紡錘形。", "explanation_image": null},
+    {"id": 11, "answer": "B", "explanation": "閏板（Intercalated disc）是心肌細胞之間的特殊連接，含有縫隙連接和橋粒，使心肌能同步收縮。", "explanation_image": "https://lt4.mynet.com.tw/linebot/images/ch7-a11-intercalated-disc.png"},
+    {"id": 12, "answer": "C", "explanation": "消化道壁含有平滑肌，負責蠕動運動。平滑肌是不隨意肌，受自主神經控制。", "explanation_image": null},
+    {"id": 13, "answer": "B", "explanation": "肌纖維 = 肌細胞。骨骼肌細胞因呈纖維狀而稱為肌纖維。肌原纖維是肌纖維內的收縮單位。", "explanation_image": null},
+    {"id": 14, "answer": "B", "explanation": "肌小節（Sarcomere）是肌原纖維的基本收縮單位，由Z線到Z線之間的區域。", "explanation_image": "https://lt4.mynet.com.tw/linebot/images/ch7-a14-sarcomere.png"},
+    {"id": 15, "answer": "C", "explanation": "肌小節定義為兩個Z線之間的區域，包含一個完整的A帶和兩個半I帶。", "explanation_image": null},
+    {"id": 16, "answer": "B", "explanation": "粗肌絲主要由肌凝蛋白（Myosin）組成，含有可水解ATP的頭部（橫橋）。", "explanation_image": "https://lt4.mynet.com.tw/linebot/images/ch7-a16-myofilaments.png"},
+    {"id": 17, "answer": "B", "explanation": "細肌絲主要由肌動蛋白（Actin）組成，還含有旋轉素（Troponin）和旋轉肌球素（Tropomyosin）。", "explanation_image": null},
+    {"id": 18, "answer": "C", "explanation": "肌肉收縮時，細肌絲滑入粗肌絲之間，I帶和H帶縮短，但A帶長度不變。", "explanation_image": "https://lt4.mynet.com.tw/linebot/images/ch7-a18-muscle-contraction.png"},
+    {"id": 19, "answer": "C", "explanation": "A帶是粗肌絲所在區域，收縮時粗肌絲長度不變，因此A帶長度不變。", "explanation_image": null},
+    {"id": 20, "answer": "B", "explanation": "滑動理論（Sliding Filament Theory）：肌肉收縮時，細肌絲滑入粗肌絲之間，肌絲本身長度不變。", "explanation_image": null},
+    {"id": 21, "answer": "C", "explanation": "鈣離子（Ca²⁺）是肌肉收縮的關鍵，與旋轉素結合後使肌動蛋白結合位暴露。", "explanation_image": null},
+    {"id": 22, "answer": "B", "explanation": "肌漿網（Sarcoplasmic reticulum）是骨骼肌中特化的內質網，負責儲存和釋放鈣離子。", "explanation_image": null},
+    {"id": 23, "answer": "B", "explanation": "橫小管（T-tubule）是肌膜內陷形成，功能是將動作電位快速傳導至肌纖維內部，觸發鈣離子釋放。", "explanation_image": "https://lt4.mynet.com.tw/linebot/images/ch7-a23-t-tubule.png"},
+    {"id": 24, "answer": "C", "explanation": "旋轉肌球素-旋轉素複合物覆蓋在細肌絲上，阻擋肌動蛋白與肌凝蛋白的結合位。", "explanation_image": null},
+    {"id": 25, "answer": "B", "explanation": "Ca²⁺與旋轉素（Troponin）結合→旋轉肌球素移開→暴露肌動蛋白結合位→肌凝蛋白頭部可結合。", "explanation_image": "https://lt4.mynet.com.tw/linebot/images/ch7-a25-calcium-role.png"},
+    {"id": 26, "answer": "C", "explanation": "ATP是肌肉收縮的直接能量來源。ATP水解提供橫橋循環和鈣離子回收所需的能量。", "explanation_image": null},
+    {"id": 27, "answer": "B", "explanation": "乙醯膽鹼（ACh）是神經肌肉接合處的神經傳遞物質，由運動神經元釋放。", "explanation_image": "https://lt4.mynet.com.tw/linebot/images/ch7-a27-neuromuscular-junction.png"},
+    {"id": 28, "answer": "B", "explanation": "運動終板（Motor end plate）是肌纖維膜上接受神經訊號的特化區域，含有大量乙醯膽鹼受器。", "explanation_image": null},
+    {"id": 29, "answer": "B", "explanation": "死後ATP耗盡，肌凝蛋白無法與肌動蛋白分離，導致肌肉僵直。通常死後2-4小時出現。", "explanation_image": null},
+    {"id": 30, "answer": "B", "explanation": "等長收縮：肌肉產生張力但長度不變（如推牆）。等張收縮：肌肉長度改變但張力恆定（如舉重）。", "explanation_image": "https://lt4.mynet.com.tw/linebot/images/ch7-a30-contraction-types.png"}
+  ]
+}

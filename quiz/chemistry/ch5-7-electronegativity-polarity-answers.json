@@ -1,0 +1,193 @@
+{
+  "metadata": {
+    "title": "陰電性和極鍵性 - 答案與解析",
+    "subject": "普通化學",
+    "chapter": "5",
+    "section": "5.7",
+    "total_questions": 30,
+    "version": "1.0",
+    "created_date": "2026-01-13"
+  },
+  "answers": [
+    {
+      "id": 1,
+      "answer": "B",
+      "explanation": "陰電性是指原子在化學鍵中吸引鍵結電子對的能力。陰電性越大，原子吸引電子的能力越強。",
+      "explanation_image": null
+    },
+    {
+      "id": 2,
+      "answer": "C",
+      "explanation": "氟（F）是陰電性最大的元素，鮑林陰電性值為 4.0。這是因為氟原子半徑小、核電荷大，對電子吸引力最強。",
+      "explanation_image": null
+    },
+    {
+      "id": 3,
+      "answer": "B",
+      "explanation": "在同一週期中，由左到右，有效核電荷增加、原子半徑減小，因此陰電性遞增。",
+      "explanation_image": null
+    },
+    {
+      "id": 4,
+      "answer": "B",
+      "explanation": "在同一族中，由上到下，原子半徑增大、電子層增加，使得核對外層電子的吸引力減弱，因此陰電性遞減。",
+      "explanation_image": null
+    },
+    {
+      "id": 5,
+      "answer": "C",
+      "explanation": "H-H 鍵是兩個相同原子之間的鍵，陰電性差為 0，電子對平均分布，是非極性共價鍵。",
+      "explanation_image": null
+    },
+    {
+      "id": 6,
+      "answer": "C",
+      "explanation": "當陰電性差值大於 1.9 時，電子幾乎完全轉移到陰電性較大的原子，形成離子鍵。",
+      "explanation_image": null
+    },
+    {
+      "id": 7,
+      "answer": "B",
+      "explanation": "陰電性差值介於 0.4 到 1.9 之間時，電子對偏向陰電性較大的原子，但沒有完全轉移，形成極性共價鍵。",
+      "explanation_image": null
+    },
+    {
+      "id": 8,
+      "answer": "C",
+      "explanation": "銫（Cs）位於第一族最下方，原子半徑最大，對電子吸引力最弱，陰電性最小（約 0.7）。",
+      "explanation_image": null
+    },
+    {
+      "id": 9,
+      "answer": "B",
+      "explanation": "在極性共價鍵中，共用電子對偏向陰電性較大的原子，使該原子帶部分負電（δ⁻）。",
+      "explanation_image": null
+    },
+    {
+      "id": 10,
+      "answer": "B",
+      "explanation": "氯的陰電性（3.0）大於氫（2.1），所以電子對偏向氯，使氯帶部分負電（δ⁻），氫帶部分正電（δ⁺）。",
+      "explanation_image": null
+    },
+    {
+      "id": 11,
+      "answer": "D",
+      "explanation": "在鮑林陰電性標度中，氟的陰電性值為 4.0，是所有元素中最高的。",
+      "explanation_image": null
+    },
+    {
+      "id": 12,
+      "answer": "D",
+      "explanation": "F-H 鍵的極性最強，因為氟的陰電性最大（4.0），與氫（2.1）的差值最大（1.9）。",
+      "explanation_image": null
+    },
+    {
+      "id": 13,
+      "answer": "C",
+      "explanation": "N₂ 由兩個相同的氮原子組成，陰電性差為 0，形成非極性共價鍵。其他分子都含有不同原子的極性鍵。",
+      "explanation_image": null
+    },
+    {
+      "id": 14,
+      "answer": "B",
+      "explanation": "惰性氣體（如 He、Ne、Ar）的價電子層已滿，通常不與其他原子形成化學鍵，因此沒有定義陰電性。",
+      "explanation_image": null
+    },
+    {
+      "id": 15,
+      "answer": "A",
+      "explanation": "陰電性順序：F (4.0) > O (3.5) > N (3.0) > C (2.5)。氟是陰電性最大的元素。",
+      "explanation_image": null
+    },
+    {
+      "id": 16,
+      "answer": "B",
+      "explanation": "δ⁺ 表示部分正電荷（partial positive charge），表示該原子略微失去電子密度，但沒有完全失去電子。",
+      "explanation_image": null
+    },
+    {
+      "id": 17,
+      "answer": "C",
+      "explanation": "NaCl 中，Na（0.9）和 Cl（3.0）的陰電性差值為 2.1，大於 1.9，形成離子鍵。Na 完全失去電子給 Cl。",
+      "explanation_image": null
+    },
+    {
+      "id": 18,
+      "answer": "B",
+      "explanation": "C-H 的陰電性差約 0.4，屬於極性共價鍵的邊界，但仍可視為弱極性共價鍵。",
+      "explanation_image": null
+    },
+    {
+      "id": 19,
+      "answer": "C",
+      "explanation": "Cl₂ 由兩個相同的氯原子組成，陰電性差為 0，形成完全非極性的共價鍵。",
+      "explanation_image": null
+    },
+    {
+      "id": 20,
+      "answer": "B",
+      "explanation": "陰電性與原子的大小（半徑）和核電荷有關。原子越小、核電荷越大，陰電性越高。",
+      "explanation_image": null
+    },
+    {
+      "id": 21,
+      "answer": "B",
+      "explanation": "氟原子半徑很小（最小的鹵素），且有效核電荷大（有 9 個質子），對電子的吸引力最強。",
+      "explanation_image": null
+    },
+    {
+      "id": 22,
+      "answer": "D",
+      "explanation": "C-F 鍵的極性最強，因為氟的陰電性最大。陰電性差：C-F (1.5) > C-O (1.0) > C-N (0.5) > C-C (0)。",
+      "explanation_image": null
+    },
+    {
+      "id": 23,
+      "answer": "B",
+      "explanation": "鍵的極性影響分子的極性，進而影響分子間作用力，決定了溶解性、沸點、熔點等物理性質。",
+      "explanation_image": null
+    },
+    {
+      "id": 24,
+      "answer": "A",
+      "explanation": "碳的陰電性約 2.5，氫約 2.1，差值僅 0.4，是選項中最接近碳的。氧(3.5)、氟(4.0)、鈉(0.9)差距較大。",
+      "explanation_image": null
+    },
+    {
+      "id": 25,
+      "answer": "B",
+      "explanation": "C-O 鍵的陰電性差約 1.0（C=2.5, O=3.5），屬於極性共價鍵。電子對偏向氧原子。",
+      "explanation_image": null
+    },
+    {
+      "id": 26,
+      "answer": "B",
+      "explanation": "同一週期，原子序增加時，有效核電荷增加、原子半徑減小，陰電性增加。",
+      "explanation_image": null
+    },
+    {
+      "id": 27,
+      "answer": "C",
+      "explanation": "Na（陰電性 0.9）和 Cl（陰電性 3.0）的差值為 2.1，大於 1.9，最可能形成離子鍵。",
+      "explanation_image": null
+    },
+    {
+      "id": 28,
+      "answer": "C",
+      "explanation": "陰電性差值為 0 時，電子對平均分布在兩個原子之間，形成非極性共價鍵，如 H₂、Cl₂、N₂。",
+      "explanation_image": null
+    },
+    {
+      "id": 29,
+      "answer": "C",
+      "explanation": "原子的顏色與陰電性無關。影響陰電性的因素包括：有效核電荷、原子半徑、電子層數。",
+      "explanation_image": null
+    },
+    {
+      "id": 30,
+      "answer": "B",
+      "explanation": "HF 的陰電性差為 1.9（H=2.1, F=4.0），剛好在極性共價鍵與離子鍵的邊界，通常歸類為極性共價鍵。",
+      "explanation_image": null
+    }
+  ]
+}

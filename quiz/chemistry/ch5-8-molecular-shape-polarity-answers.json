@@ -1,0 +1,193 @@
+{
+  "metadata": {
+    "title": "分子的形狀和極性 - 答案與解析",
+    "subject": "普通化學",
+    "chapter": "5",
+    "section": "5.8",
+    "total_questions": 30,
+    "version": "1.0",
+    "created_date": "2026-01-13"
+  },
+  "answers": [
+    {
+      "id": 1,
+      "answer": "B",
+      "explanation": "VSEPR 理論基於電子對（包括鍵結電子對和孤對電子）之間的互斥作用，使它們盡可能遠離彼此，從而決定分子的形狀。",
+      "explanation_image": null
+    },
+    {
+      "id": 2,
+      "answer": "A",
+      "explanation": "VSEPR 全名是 Valence Shell Electron Pair Repulsion，中文為「價殼層電子對互斥理論」。",
+      "explanation_image": null
+    },
+    {
+      "id": 3,
+      "answer": "B",
+      "explanation": "甲烷（CH₄）中，碳原子周圍有 4 對鍵結電子對，無孤對電子，形成正四面體形狀，鍵角為 109.5°。",
+      "explanation_image": null
+    },
+    {
+      "id": 4,
+      "answer": "B",
+      "explanation": "水分子中，氧原子有 2 對鍵結電子對和 2 對孤對電子，孤對電子的排斥使分子呈彎曲形（V形）。",
+      "explanation_image": null
+    },
+    {
+      "id": 5,
+      "answer": "B",
+      "explanation": "氨分子中，氮原子有 3 對鍵結電子對和 1 對孤對電子，形成三角錐形。",
+      "explanation_image": null
+    },
+    {
+      "id": 6,
+      "answer": "B",
+      "explanation": "CO₂ 中，碳原子有 2 對鍵結電子對（兩個雙鍵），無孤對電子，為使電子對距離最遠，形成直線形，鍵角 180°。",
+      "explanation_image": null
+    },
+    {
+      "id": 7,
+      "answer": "B",
+      "explanation": "BF₃ 中，硼原子有 3 對鍵結電子對，無孤對電子，形成平面三角形，鍵角 120°。",
+      "explanation_image": null
+    },
+    {
+      "id": 8,
+      "answer": "B",
+      "explanation": "正四面體的鍵角為 109.5°。這是 4 對電子對互相排斥，使彼此距離最遠時的角度。",
+      "explanation_image": null
+    },
+    {
+      "id": 9,
+      "answer": "B",
+      "explanation": "水分子的 H-O-H 鍵角約為 104.5°，比正四面體角度（109.5°）小。",
+      "explanation_image": null
+    },
+    {
+      "id": 10,
+      "answer": "B",
+      "explanation": "孤對電子比鍵結電子對佔據更大的空間，產生更強的排斥力，將鍵結電子對推得更近，使鍵角變小。",
+      "explanation_image": null
+    },
+    {
+      "id": 11,
+      "answer": "C",
+      "explanation": "H₂O 是極性分子。雖然氧有兩對孤對電子和兩個 O-H 極性鍵，彎曲形狀使偶極矩無法抵消。",
+      "explanation_image": null
+    },
+    {
+      "id": 12,
+      "answer": "C",
+      "explanation": "CO₂ 雖然有極性 C=O 鍵，但直線形對稱結構使兩個偶極矩方向相反，完全抵消，是非極性分子。",
+      "explanation_image": null
+    },
+    {
+      "id": 13,
+      "answer": "B",
+      "explanation": "CO₂ 是直線形分子，兩個 C=O 極性鍵的偶極矩大小相等、方向相反，互相抵消，淨偶極矩為零。",
+      "explanation_image": null
+    },
+    {
+      "id": 14,
+      "answer": "B",
+      "explanation": "PCl₅ 中，磷原子有 5 對鍵結電子對，形成三角雙錐形，有兩種不同的鍵角：軸向 180°，赤道 120°。",
+      "explanation_image": null
+    },
+    {
+      "id": 15,
+      "answer": "B",
+      "explanation": "SF₆ 中，硫原子有 6 對鍵結電子對，形成八面體形狀，所有鍵角為 90°。",
+      "explanation_image": null
+    },
+    {
+      "id": 16,
+      "answer": "B",
+      "explanation": "HCN 中，碳原子有 2 對鍵結電子對（與 H 的單鍵和與 N 的三鍵），無孤對電子，形成直線形。",
+      "explanation_image": null
+    },
+    {
+      "id": 17,
+      "answer": "B",
+      "explanation": "分子極性由兩個因素決定：(1) 鍵的極性（由陰電性差決定）(2) 分子形狀（決定偶極矩是否抵消）。",
+      "explanation_image": null
+    },
+    {
+      "id": 18,
+      "answer": "B",
+      "explanation": "CCl₄ 是正四面體形狀，雖然 C-Cl 鍵是極性的，但四個相同的極性鍵對稱分布，偶極矩完全抵消。",
+      "explanation_image": null
+    },
+    {
+      "id": 19,
+      "answer": "B",
+      "explanation": "CHCl₃ 是極性分子。它的四面體結構不對稱（一個 H 和三個 Cl），偶極矩無法完全抵消。",
+      "explanation_image": null
+    },
+    {
+      "id": 20,
+      "answer": "C",
+      "explanation": "平面三角形的鍵角為 120°。這是 3 對電子對在平面上互相排斥，距離最遠時的角度。",
+      "explanation_image": null
+    },
+    {
+      "id": 21,
+      "answer": "D",
+      "explanation": "直線形分子的鍵角為 180°。這是 2 對電子對互相排斥，距離最遠時的角度。",
+      "explanation_image": null
+    },
+    {
+      "id": 22,
+      "answer": "B",
+      "explanation": "2 對鍵結電子對 + 2 對孤對電子 = 4 對電子對（四面體電子幾何），但只看原子位置是彎曲形，如 H₂O。",
+      "explanation_image": null
+    },
+    {
+      "id": 23,
+      "answer": "B",
+      "explanation": "3 對鍵結電子對 + 1 對孤對電子 = 4 對電子對（四面體電子幾何），但分子形狀是三角錐形，如 NH₃。",
+      "explanation_image": null
+    },
+    {
+      "id": 24,
+      "answer": "C",
+      "explanation": "鍵角大小：BF₃(120°) > CH₄(109.5°) > NH₃(107°) > H₂O(104.5°)。孤對電子越多，鍵角越小。",
+      "explanation_image": null
+    },
+    {
+      "id": 25,
+      "answer": "B",
+      "explanation": "SO₂ 中，硫原子有 2 對鍵結電子對和 1 對孤對電子，形成彎曲形（類似水分子）。",
+      "explanation_image": null
+    },
+    {
+      "id": 26,
+      "answer": "B",
+      "explanation": "SO₂ 是彎曲形分子，兩個 S=O 極性鍵的偶極矩不能完全抵消，因此是極性分子。",
+      "explanation_image": null
+    },
+    {
+      "id": 27,
+      "answer": "B",
+      "explanation": "BeH₂ 中，鈹原子有 2 對鍵結電子對，無孤對電子，形成直線形，鍵角 180°。",
+      "explanation_image": null
+    },
+    {
+      "id": 28,
+      "answer": "B",
+      "explanation": "電子對幾何形狀考慮所有電子對（包括孤對電子），而分子幾何形狀只描述原子的相對位置。",
+      "explanation_image": null
+    },
+    {
+      "id": 29,
+      "answer": "B",
+      "explanation": "XeF₄ 有 4 對鍵結電子對和 2 對孤對電子（共 6 對），八面體電子幾何，孤對電子在對位，分子呈平面正方形。",
+      "explanation_image": null
+    },
+    {
+      "id": 30,
+      "answer": "C",
+      "explanation": "BF₃ 是平面三角形，完全對稱，三個 B-F 極性鍵的偶極矩互相抵消，淨偶極矩為零，是非極性分子。",
+      "explanation_image": null
+    }
+  ]
+}

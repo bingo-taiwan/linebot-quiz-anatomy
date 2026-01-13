@@ -1,0 +1,375 @@
+{
+  "metadata": {
+    "title": "分子化合物和多原子離子的路易士結構",
+    "subject": "普通化學",
+    "chapter": "5",
+    "section": "5.6",
+    "topic": "Lewis Structures of Molecular Compounds and Polyatomic Ions",
+    "description": "路易士結構的繪製、八隅體規則、共價鍵與孤對電子",
+    "total_questions": 30,
+    "version": "1.0",
+    "created_date": "2026-01-13"
+  },
+  "questions": [
+    {
+      "id": 1,
+      "question": "路易士結構中，一對共用電子對代表什麼？",
+      "question_image": null,
+      "options": {
+        "A": "一個離子鍵",
+        "B": "一個共價鍵",
+        "C": "一個氫鍵",
+        "D": "一個金屬鍵"
+      },
+      "options_image": null
+    },
+    {
+      "id": 2,
+      "question": "在路易士結構中，未參與鍵結的電子對稱為什麼？",
+      "question_image": null,
+      "options": {
+        "A": "鍵結電子對",
+        "B": "孤對電子（孤電子對）",
+        "C": "共價電子",
+        "D": "自由電子"
+      },
+      "options_image": null
+    },
+    {
+      "id": 3,
+      "question": "根據八隅體規則，原子傾向於擁有幾個價電子？",
+      "question_image": null,
+      "options": {
+        "A": "2 個",
+        "B": "4 個",
+        "C": "6 個",
+        "D": "8 個"
+      },
+      "options_image": null
+    },
+    {
+      "id": 4,
+      "question": "氫原子在形成共價鍵後，通常擁有幾個電子？",
+      "question_image": null,
+      "options": {
+        "A": "1 個",
+        "B": "2 個",
+        "C": "4 個",
+        "D": "8 個"
+      },
+      "options_image": null
+    },
+    {
+      "id": 5,
+      "question": "水分子（H₂O）的路易士結構中，氧原子有幾對孤對電子？",
+      "question_image": null,
+      "options": {
+        "A": "0 對",
+        "B": "1 對",
+        "C": "2 對",
+        "D": "3 對"
+      },
+      "options_image": null
+    },
+    {
+      "id": 6,
+      "question": "氨分子（NH₃）的路易士結構中，氮原子有幾對孤對電子？",
+      "question_image": null,
+      "options": {
+        "A": "0 對",
+        "B": "1 對",
+        "C": "2 對",
+        "D": "3 對"
+      },
+      "options_image": null
+    },
+    {
+      "id": 7,
+      "question": "甲烷（CH₄）的路易士結構中，碳原子周圍有幾個共價鍵？",
+      "question_image": null,
+      "options": {
+        "A": "1 個",
+        "B": "2 個",
+        "C": "3 個",
+        "D": "4 個"
+      },
+      "options_image": null
+    },
+    {
+      "id": 8,
+      "question": "氧氣分子（O₂）中，兩個氧原子之間形成什麼鍵？",
+      "question_image": null,
+      "options": {
+        "A": "單鍵",
+        "B": "雙鍵",
+        "C": "三鍵",
+        "D": "離子鍵"
+      },
+      "options_image": null
+    },
+    {
+      "id": 9,
+      "question": "氮氣分子（N₂）中，兩個氮原子之間形成什麼鍵？",
+      "question_image": null,
+      "options": {
+        "A": "單鍵",
+        "B": "雙鍵",
+        "C": "三鍵",
+        "D": "離子鍵"
+      },
+      "options_image": null
+    },
+    {
+      "id": 10,
+      "question": "二氧化碳（CO₂）的路易士結構中，碳與氧之間形成什麼鍵？",
+      "question_image": null,
+      "options": {
+        "A": "單鍵",
+        "B": "雙鍵",
+        "C": "三鍵",
+        "D": "一個單鍵和一個雙鍵"
+      },
+      "options_image": null
+    },
+    {
+      "id": 11,
+      "question": "計算分子的總價電子數時，下列敘述何者正確？",
+      "question_image": null,
+      "options": {
+        "A": "只計算中心原子的價電子",
+        "B": "將所有原子的價電子相加",
+        "C": "只計算鍵結電子",
+        "D": "只計算孤對電子"
+      },
+      "options_image": null
+    },
+    {
+      "id": 12,
+      "question": "HCN（氰化氫）分子中，碳與氮之間形成什麼鍵？",
+      "question_image": null,
+      "options": {
+        "A": "單鍵",
+        "B": "雙鍵",
+        "C": "三鍵",
+        "D": "離子鍵"
+      },
+      "options_image": null
+    },
+    {
+      "id": 13,
+      "question": "下列何者不遵守八隅體規則？",
+      "question_image": null,
+      "options": {
+        "A": "H₂O",
+        "B": "NH₃",
+        "C": "BF₃",
+        "D": "CH₄"
+      },
+      "options_image": null
+    },
+    {
+      "id": 14,
+      "question": "硫酸根離子（SO₄²⁻）的總價電子數為何？",
+      "question_image": null,
+      "options": {
+        "A": "30 個",
+        "B": "32 個",
+        "C": "34 個",
+        "D": "36 個"
+      },
+      "options_image": null
+    },
+    {
+      "id": 15,
+      "question": "銨根離子（NH₄⁺）的總價電子數為何？",
+      "question_image": null,
+      "options": {
+        "A": "6 個",
+        "B": "8 個",
+        "C": "9 個",
+        "D": "10 個"
+      },
+      "options_image": null
+    },
+    {
+      "id": 16,
+      "question": "繪製路易士結構時，中心原子通常是下列何者？",
+      "question_image": null,
+      "options": {
+        "A": "氫原子",
+        "B": "陰電性最小的原子",
+        "C": "陰電性最大的原子",
+        "D": "原子半徑最小的原子"
+      },
+      "options_image": null
+    },
+    {
+      "id": 17,
+      "question": "甲醛（H₂CO）的路易士結構中，碳氧之間形成什麼鍵？",
+      "question_image": null,
+      "options": {
+        "A": "單鍵",
+        "B": "雙鍵",
+        "C": "三鍵",
+        "D": "兩個單鍵"
+      },
+      "options_image": null
+    },
+    {
+      "id": 18,
+      "question": "氯化氫（HCl）分子的總價電子數為何？",
+      "question_image": null,
+      "options": {
+        "A": "6 個",
+        "B": "8 個",
+        "C": "10 個",
+        "D": "12 個"
+      },
+      "options_image": null
+    },
+    {
+      "id": 19,
+      "question": "硝酸根離子（NO₃⁻）中心原子是哪個？",
+      "question_image": null,
+      "options": {
+        "A": "氧原子",
+        "B": "氮原子",
+        "C": "都可以",
+        "D": "沒有中心原子"
+      },
+      "options_image": null
+    },
+    {
+      "id": 20,
+      "question": "下列何者具有共振結構？",
+      "question_image": null,
+      "options": {
+        "A": "H₂O",
+        "B": "CH₄",
+        "C": "O₃",
+        "D": "HCl"
+      },
+      "options_image": null
+    },
+    {
+      "id": 21,
+      "question": "碳酸根離子（CO₃²⁻）有幾個共振結構？",
+      "question_image": null,
+      "options": {
+        "A": "1 個",
+        "B": "2 個",
+        "C": "3 個",
+        "D": "4 個"
+      },
+      "options_image": null
+    },
+    {
+      "id": 22,
+      "question": "一氧化碳（CO）分子中，碳氧之間形成什麼鍵？",
+      "question_image": null,
+      "options": {
+        "A": "單鍵",
+        "B": "雙鍵",
+        "C": "三鍵",
+        "D": "離子鍵"
+      },
+      "options_image": null
+    },
+    {
+      "id": 23,
+      "question": "PCl₃ 的路易士結構中，磷原子有幾對孤對電子？",
+      "question_image": null,
+      "options": {
+        "A": "0 對",
+        "B": "1 對",
+        "C": "2 對",
+        "D": "3 對"
+      },
+      "options_image": null
+    },
+    {
+      "id": 24,
+      "question": "SF₆ 分子中，硫原子周圍有幾個鍵結電子對？",
+      "question_image": null,
+      "options": {
+        "A": "4 對",
+        "B": "5 對",
+        "C": "6 對",
+        "D": "8 對"
+      },
+      "options_image": null
+    },
+    {
+      "id": 25,
+      "question": "下列何者是 SF₆ 不遵守八隅體規則的原因？",
+      "question_image": null,
+      "options": {
+        "A": "硫原子太小",
+        "B": "硫原子可使用 d 軌域擴展八隅體",
+        "C": "氟原子太大",
+        "D": "SF₆ 是離子化合物"
+      },
+      "options_image": null
+    },
+    {
+      "id": 26,
+      "question": "過氧化氫（H₂O₂）的路易士結構中，氧氧之間形成什麼鍵？",
+      "question_image": null,
+      "options": {
+        "A": "單鍵",
+        "B": "雙鍵",
+        "C": "三鍵",
+        "D": "沒有鍵結"
+      },
+      "options_image": null
+    },
+    {
+      "id": 27,
+      "question": "乙烯（C₂H₄）分子中，碳碳之間形成什麼鍵？",
+      "question_image": null,
+      "options": {
+        "A": "單鍵",
+        "B": "雙鍵",
+        "C": "三鍵",
+        "D": "離子鍵"
+      },
+      "options_image": null
+    },
+    {
+      "id": 28,
+      "question": "乙炔（C₂H₂）分子中，碳碳之間形成什麼鍵？",
+      "question_image": null,
+      "options": {
+        "A": "單鍵",
+        "B": "雙鍵",
+        "C": "三鍵",
+        "D": "離子鍵"
+      },
+      "options_image": null
+    },
+    {
+      "id": 29,
+      "question": "氫氧根離子（OH⁻）的總價電子數為何？",
+      "question_image": null,
+      "options": {
+        "A": "6 個",
+        "B": "7 個",
+        "C": "8 個",
+        "D": "9 個"
+      },
+      "options_image": null
+    },
+    {
+      "id": 30,
+      "question": "在繪製路易士結構時，應優先滿足哪個原子的八隅體？",
+      "question_image": null,
+      "options": {
+        "A": "中心原子",
+        "B": "周邊原子（較電負的原子）",
+        "C": "最大的原子",
+        "D": "原子序最小的原子"
+      },
+      "options_image": null
+    }
+  ]
+}

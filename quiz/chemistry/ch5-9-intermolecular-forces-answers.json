@@ -1,0 +1,193 @@
+{
+  "metadata": {
+    "title": "化合物的吸引力 - 答案與解析",
+    "subject": "普通化學",
+    "chapter": "5",
+    "section": "5.9",
+    "total_questions": 30,
+    "version": "1.0",
+    "created_date": "2026-01-13"
+  },
+  "answers": [
+    {
+      "id": 1,
+      "answer": "B",
+      "explanation": "共價鍵是分子內的化學鍵，不是分子間作用力。分子間作用力包括氫鍵、倫敦分散力、偶極-偶極力等。",
+      "explanation_image": null
+    },
+    {
+      "id": 2,
+      "answer": "B",
+      "explanation": "分子間作用力通常比共價鍵弱得多。共價鍵能量約 150-400 kJ/mol，而分子間作用力約 0.05-40 kJ/mol。",
+      "explanation_image": null
+    },
+    {
+      "id": 3,
+      "answer": "C",
+      "explanation": "倫敦分散力存在於所有分子之間，包括極性和非極性分子。這是由瞬時偶極產生的，是最普遍的分子間作用力。",
+      "explanation_image": null
+    },
+    {
+      "id": 4,
+      "answer": "B",
+      "explanation": "倫敦分散力與分子的電子數（大小）成正比。電子越多，越容易形成瞬時偶極，分散力越強。",
+      "explanation_image": null
+    },
+    {
+      "id": 5,
+      "answer": "B",
+      "explanation": "偶極-偶極力存在於極性分子之間。極性分子有永久偶極矩，正端吸引負端。",
+      "explanation_image": null
+    },
+    {
+      "id": 6,
+      "answer": "B",
+      "explanation": "氫鍵發生在 H 與 F、O、N（陰電性很大的小原子）鍵結後，與另一個 F、O、N 原子之間。",
+      "explanation_image": null
+    },
+    {
+      "id": 7,
+      "answer": "C",
+      "explanation": "H₂O 中，H 與 O 鍵結，可以與其他水分子的 O 形成氫鍵。CH₄ 中 H 與 C 鍵結，C 陰電性不夠大，無法形成氫鍵。",
+      "explanation_image": null
+    },
+    {
+      "id": 8,
+      "answer": "B",
+      "explanation": "水分子可以形成氫鍵（H-O...H），H₂S 只有較弱的偶極-偶極力和倫敦力，因此水的沸點高得多（100°C vs -60°C）。",
+      "explanation_image": null
+    },
+    {
+      "id": 9,
+      "answer": "D",
+      "explanation": "一般而言氫鍵>偶極力>倫敦力，但具體強度取決於分子的大小和結構。大分子的倫敦力可能比小分子的氫鍵還強。",
+      "explanation_image": null
+    },
+    {
+      "id": 10,
+      "answer": "B",
+      "explanation": "離子-偶極力存在於離子與極性分子之間，如 Na⁺ 或 Cl⁻ 與 H₂O 分子之間的作用力。",
+      "explanation_image": null
+    },
+    {
+      "id": 11,
+      "answer": "B",
+      "explanation": "NaCl 溶於水時，Na⁺ 吸引水分子的負端（O），Cl⁻ 吸引水分子的正端（H），這就是離子-偶極力。",
+      "explanation_image": null
+    },
+    {
+      "id": 12,
+      "answer": "D",
+      "explanation": "C₄H₁₀（丁烷）分子最大，電子最多，倫敦分散力最強，因此沸點最高。烷類沸點隨分子量增加而升高。",
+      "explanation_image": null
+    },
+    {
+      "id": 13,
+      "answer": "B",
+      "explanation": "分子量增加意味著電子數增加，倫敦分散力增強。更強的分子間作用力需要更多能量來克服，所以沸點升高。",
+      "explanation_image": null
+    },
+    {
+      "id": 14,
+      "answer": "B",
+      "explanation": "HF 可以形成氫鍵（因為 F 的陰電性很大），而 HCl 只有較弱的偶極-偶極力。氫鍵使 HF 沸點較高。",
+      "explanation_image": null
+    },
+    {
+      "id": 15,
+      "answer": "D",
+      "explanation": "CH₄ 中，H 與 C 鍵結，碳的陰電性不夠大（2.5），無法形成氫鍵。CH₄ 只有倫敦分散力。",
+      "explanation_image": null
+    },
+    {
+      "id": 16,
+      "answer": "B",
+      "explanation": "冰中的水分子透過氫鍵排列成開放的六角形結構，佔據較大空間，密度比液態水低，所以冰能浮在水面上。",
+      "explanation_image": null
+    },
+    {
+      "id": 17,
+      "answer": "B",
+      "explanation": "表面張力是由液體表面分子受到向內的分子間作用力（內聚力）造成的，使液體表面呈現最小面積。",
+      "explanation_image": null
+    },
+    {
+      "id": 18,
+      "answer": "B",
+      "explanation": "水分子間有較強的氫鍵，使表面分子受到較大的向內拉力，因此水的表面張力比大多數液體高。",
+      "explanation_image": null
+    },
+    {
+      "id": 19,
+      "answer": "B",
+      "explanation": "黏度與分子間作用力強度有關。分子間作用力越強，分子越不容易流動，黏度越高。",
+      "explanation_image": null
+    },
+    {
+      "id": 20,
+      "answer": "C",
+      "explanation": "蜂蜜含有大量糖分子，有許多-OH基團可以形成大量氫鍵，分子間作用力很強，因此黏度最高。",
+      "explanation_image": null
+    },
+    {
+      "id": 21,
+      "answer": "B",
+      "explanation": "乙醇有-OH基團，可以與水分子形成氫鍵。兩者都是極性分子且能形成氫鍵，因此互溶。",
+      "explanation_image": null
+    },
+    {
+      "id": 22,
+      "answer": "B",
+      "explanation": "「相似相溶」（like dissolves like）指極性溶劑溶解極性溶質，非極性溶劑溶解非極性溶質。",
+      "explanation_image": null
+    },
+    {
+      "id": 23,
+      "answer": "B",
+      "explanation": "油是非極性分子（主要是碳氫化合物），水是極性分子。根據「相似相溶」原則，它們不互溶。",
+      "explanation_image": null
+    },
+    {
+      "id": 24,
+      "answer": "A",
+      "explanation": "瞬時偶極是由於電子在原子中的運動導致某一瞬間電子分布不均勻而產生的暫時性偶極。",
+      "explanation_image": null
+    },
+    {
+      "id": 25,
+      "answer": "C",
+      "explanation": "CH₄ 是非極性分子，沒有永久偶極，也無法形成氫鍵（C-H 中 C 的陰電性不夠大），只有倫敦分散力。",
+      "explanation_image": null
+    },
+    {
+      "id": 26,
+      "answer": "B",
+      "explanation": "液體變成氣體時，分子需要克服分子間作用力離開液體表面。共價鍵在此過程中不會斷裂。",
+      "explanation_image": null
+    },
+    {
+      "id": 27,
+      "answer": "C",
+      "explanation": "DNA 鹼基對（A-T 有 2 個氫鍵，G-C 有 3 個氫鍵）主要靠氫鍵維持配對，這對 DNA 的複製和轉錄很重要。",
+      "explanation_image": null
+    },
+    {
+      "id": 28,
+      "answer": "D",
+      "explanation": "乙二醇有兩個-OH基團，可形成更多氫鍵，分子間作用力最強，分子最不容易逸出液面，蒸氣壓最低。",
+      "explanation_image": null
+    },
+    {
+      "id": 29,
+      "answer": "C",
+      "explanation": "毛細作用取決於黏著力（液體與管壁的吸引力）和內聚力（液體分子間的吸引力）的相對強度。",
+      "explanation_image": null
+    },
+    {
+      "id": 30,
+      "answer": "C",
+      "explanation": "氫鍵是一種較強的分子間作用力（約 10-40 kJ/mol），但仍比共價鍵弱得多。它存在於多種含 N、O、F 的化合物中。",
+      "explanation_image": null
+    }
+  ]
+}

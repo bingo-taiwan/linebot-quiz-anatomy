@@ -19,19 +19,19 @@
       "id": 2,
       "answer": "C",
       "explanation": "氟（F）是陰電性最大的元素，鮑林陰電性值為 4.0。這是因為氟原子半徑小、核電荷大，對電子吸引力最強。",
-      "explanation_image": null
+      "explanation_image": "https://lt4.mynet.com.tw/linebot/images/ch5-7-electronegativity-trend.png"
     },
     {
       "id": 3,
       "answer": "B",
       "explanation": "在同一週期中，由左到右，有效核電荷增加、原子半徑減小，因此陰電性遞增。",
-      "explanation_image": null
+      "explanation_image": "https://lt4.mynet.com.tw/linebot/images/ch5-7-electronegativity-trend.png"
     },
     {
       "id": 4,
       "answer": "B",
       "explanation": "在同一族中，由上到下，原子半徑增大、電子層增加，使得核對外層電子的吸引力減弱，因此陰電性遞減。",
-      "explanation_image": null
+      "explanation_image": "https://lt4.mynet.com.tw/linebot/images/ch5-7-electronegativity-trend.png"
     },
     {
       "id": 5,
@@ -43,13 +43,13 @@
       "id": 6,
       "answer": "C",
       "explanation": "當陰電性差值大於 1.9 時，電子幾乎完全轉移到陰電性較大的原子，形成離子鍵。",
-      "explanation_image": null
+      "explanation_image": "https://lt4.mynet.com.tw/linebot/images/ch5-7-bond-type-chart.png"
     },
     {
       "id": 7,
       "answer": "B",
       "explanation": "陰電性差值介於 0.4 到 1.9 之間時，電子對偏向陰電性較大的原子，但沒有完全轉移，形成極性共價鍵。",
-      "explanation_image": null
+      "explanation_image": "https://lt4.mynet.com.tw/linebot/images/ch5-7-bond-type-chart.png"
     },
     {
       "id": 8,
@@ -61,13 +61,13 @@
       "id": 9,
       "answer": "B",
       "explanation": "在極性共價鍵中，共用電子對偏向陰電性較大的原子，使該原子帶部分負電（δ⁻）。",
-      "explanation_image": null
+      "explanation_image": "https://lt4.mynet.com.tw/linebot/images/ch5-7-polar-bond.png"
     },
     {
       "id": 10,
       "answer": "B",
       "explanation": "氯的陰電性（3.0）大於氫（2.1），所以電子對偏向氯，使氯帶部分負電（δ⁻），氫帶部分正電（δ⁺）。",
-      "explanation_image": null
+      "explanation_image": "https://lt4.mynet.com.tw/linebot/images/ch5-7-polar-bond.png"
     },
     {
       "id": 11,
@@ -97,7 +97,7 @@
       "id": 15,
       "answer": "A",
       "explanation": "陰電性順序：F (4.0) > O (3.5) > N (3.0) > C (2.5)。氟是陰電性最大的元素。",
-      "explanation_image": null
+      "explanation_image": "https://lt4.mynet.com.tw/linebot/images/ch5-7-electronegativity-trend.png"
     },
     {
       "id": 16,

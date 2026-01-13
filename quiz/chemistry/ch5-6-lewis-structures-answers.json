@@ -37,7 +37,7 @@
       "id": 5,
       "answer": "C",
       "explanation": "水分子中，氧原子有 6 個價電子，與 2 個氫原子各形成 1 個共價鍵（用掉 2 對電子），剩餘 2 對為孤對電子。",
-      "explanation_image": null
+      "explanation_image": "https://lt4.mynet.com.tw/linebot/images/ch5-6-a5-h2o-lewis.png"
     },
     {
       "id": 6,
@@ -49,25 +49,25 @@
       "id": 7,
       "answer": "D",
       "explanation": "甲烷中，碳原子有 4 個價電子，與 4 個氫原子各形成 1 個共價鍵，共 4 個單鍵。碳原子周圍沒有孤對電子。",
-      "explanation_image": null
+      "explanation_image": "https://lt4.mynet.com.tw/linebot/images/ch5-6-lewis-comparison.png"
     },
     {
       "id": 8,
       "answer": "B",
       "explanation": "氧氣分子（O₂）中，兩個氧原子共用 2 對電子，形成雙鍵。每個氧原子還有 2 對孤對電子。",
-      "explanation_image": null
+      "explanation_image": "https://lt4.mynet.com.tw/linebot/images/ch5-6-bond-types.png"
     },
     {
       "id": 9,
       "answer": "C",
       "explanation": "氮氣分子（N₂）中，兩個氮原子共用 3 對電子，形成三鍵。每個氮原子還有 1 對孤對電子。這使 N₂ 非常穩定。",
-      "explanation_image": null
+      "explanation_image": "https://lt4.mynet.com.tw/linebot/images/ch5-6-bond-types.png"
     },
     {
       "id": 10,
       "answer": "B",
       "explanation": "二氧化碳（CO₂）中，中心碳原子與兩個氧原子各形成一個雙鍵（C=O=C），碳原子周圍共 4 對鍵結電子。",
-      "explanation_image": null
+      "explanation_image": "https://lt4.mynet.com.tw/linebot/images/ch5-6-lewis-comparison.png"
     },
     {
       "id": 11,
@@ -127,13 +127,13 @@
       "id": 20,
       "answer": "C",
       "explanation": "臭氧（O₃）具有共振結構，雙鍵可以在中心氧與兩個端氧之間「共振」。H₂O、CH₄、HCl 都沒有共振結構。",
-      "explanation_image": null
+      "explanation_image": "https://lt4.mynet.com.tw/linebot/images/ch5-6-a21-resonance.png"
     },
     {
       "id": 21,
       "answer": "C",
       "explanation": "碳酸根離子（CO₃²⁻）有 3 個等價的共振結構，雙鍵可以在碳與三個氧原子之間「共振」。",
-      "explanation_image": null
+      "explanation_image": "https://lt4.mynet.com.tw/linebot/images/ch5-6-a21-resonance.png"
     },
     {
       "id": 22,
@@ -169,13 +169,13 @@
       "id": 27,
       "answer": "B",
       "explanation": "乙烯（C₂H₄）中，兩個碳原子之間形成雙鍵（C=C），每個碳還與兩個氫原子形成單鍵。",
-      "explanation_image": null
+      "explanation_image": "https://lt4.mynet.com.tw/linebot/images/ch5-6-bond-types.png"
     },
     {
       "id": 28,
       "answer": "C",
       "explanation": "乙炔（C₂H₂）中，兩個碳原子之間形成三鍵（C≡C），每個碳只與一個氫原子形成單鍵。",
-      "explanation_image": null
+      "explanation_image": "https://lt4.mynet.com.tw/linebot/images/ch5-6-bond-types.png"
     },
     {
       "id": 29,

@@ -13,7 +13,7 @@
       "id": 1,
       "answer": "B",
       "explanation": "共價鍵是分子內的化學鍵，不是分子間作用力。分子間作用力包括氫鍵、倫敦分散力、偶極-偶極力等。",
-      "explanation_image": null
+      "explanation_image": "https://lt4.mynet.com.tw/linebot/images/ch5-9-imf-types.png"
     },
     {
       "id": 2,
@@ -25,37 +25,37 @@
       "id": 3,
       "answer": "C",
       "explanation": "倫敦分散力存在於所有分子之間，包括極性和非極性分子。這是由瞬時偶極產生的，是最普遍的分子間作用力。",
-      "explanation_image": null
+      "explanation_image": "https://lt4.mynet.com.tw/linebot/images/ch5-9-imf-types.png"
     },
     {
       "id": 4,
       "answer": "B",
       "explanation": "倫敦分散力與分子的電子數（大小）成正比。電子越多，越容易形成瞬時偶極，分散力越強。",
-      "explanation_image": null
+      "explanation_image": "https://lt4.mynet.com.tw/linebot/images/ch5-9-imf-types.png"
     },
     {
       "id": 5,
       "answer": "B",
       "explanation": "偶極-偶極力存在於極性分子之間。極性分子有永久偶極矩，正端吸引負端。",
-      "explanation_image": null
+      "explanation_image": "https://lt4.mynet.com.tw/linebot/images/ch5-9-imf-types.png"
     },
     {
       "id": 6,
       "answer": "B",
       "explanation": "氫鍵發生在 H 與 F、O、N（陰電性很大的小原子）鍵結後，與另一個 F、O、N 原子之間。",
-      "explanation_image": null
+      "explanation_image": "https://lt4.mynet.com.tw/linebot/images/ch5-9-hydrogen-bond.png"
     },
     {
       "id": 7,
       "answer": "C",
       "explanation": "H₂O 中，H 與 O 鍵結，可以與其他水分子的 O 形成氫鍵。CH₄ 中 H 與 C 鍵結，C 陰電性不夠大，無法形成氫鍵。",
-      "explanation_image": null
+      "explanation_image": "https://lt4.mynet.com.tw/linebot/images/ch5-9-hydrogen-bond.png"
     },
     {
       "id": 8,
       "answer": "B",
       "explanation": "水分子可以形成氫鍵（H-O...H），H₂S 只有較弱的偶極-偶極力和倫敦力，因此水的沸點高得多（100°C vs -60°C）。",
-      "explanation_image": null
+      "explanation_image": "https://lt4.mynet.com.tw/linebot/images/ch5-9-hydrogen-bond.png"
     },
     {
       "id": 9,
@@ -79,13 +79,13 @@
       "id": 12,
       "answer": "D",
       "explanation": "C₄H₁₀（丁烷）分子最大，電子最多，倫敦分散力最強，因此沸點最高。烷類沸點隨分子量增加而升高。",
-      "explanation_image": null
+      "explanation_image": "https://lt4.mynet.com.tw/linebot/images/ch5-9-boiling-point.png"
     },
     {
       "id": 13,
       "answer": "B",
       "explanation": "分子量增加意味著電子數增加，倫敦分散力增強。更強的分子間作用力需要更多能量來克服，所以沸點升高。",
-      "explanation_image": null
+      "explanation_image": "https://lt4.mynet.com.tw/linebot/images/ch5-9-boiling-point.png"
     },
     {
       "id": 14,
@@ -151,7 +151,7 @@
       "id": 24,
       "answer": "A",
       "explanation": "瞬時偶極是由於電子在原子中的運動導致某一瞬間電子分布不均勻而產生的暫時性偶極。",
-      "explanation_image": null
+      "explanation_image": "https://lt4.mynet.com.tw/linebot/images/ch5-9-london-dispersion.png"
     },
     {
       "id": 25,

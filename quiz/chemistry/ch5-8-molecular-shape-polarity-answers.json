@@ -25,67 +25,67 @@
       "id": 3,
       "answer": "B",
       "explanation": "甲烷（CH₄）中，碳原子周圍有 4 對鍵結電子對，無孤對電子，形成正四面體形狀，鍵角為 109.5°。",
-      "explanation_image": null
+      "explanation_image": "https://lt4.mynet.com.tw/linebot/images/ch5-8-vsepr-shapes.png"
     },
     {
       "id": 4,
       "answer": "B",
       "explanation": "水分子中，氧原子有 2 對鍵結電子對和 2 對孤對電子，孤對電子的排斥使分子呈彎曲形（V形）。",
-      "explanation_image": null
+      "explanation_image": "https://lt4.mynet.com.tw/linebot/images/ch5-8-vsepr-shapes.png"
     },
     {
       "id": 5,
       "answer": "B",
       "explanation": "氨分子中，氮原子有 3 對鍵結電子對和 1 對孤對電子，形成三角錐形。",
-      "explanation_image": null
+      "explanation_image": "https://lt4.mynet.com.tw/linebot/images/ch5-8-vsepr-shapes.png"
     },
     {
       "id": 6,
       "answer": "B",
       "explanation": "CO₂ 中，碳原子有 2 對鍵結電子對（兩個雙鍵），無孤對電子，為使電子對距離最遠，形成直線形，鍵角 180°。",
-      "explanation_image": null
+      "explanation_image": "https://lt4.mynet.com.tw/linebot/images/ch5-8-vsepr-shapes.png"
     },
     {
       "id": 7,
       "answer": "B",
       "explanation": "BF₃ 中，硼原子有 3 對鍵結電子對，無孤對電子，形成平面三角形，鍵角 120°。",
-      "explanation_image": null
+      "explanation_image": "https://lt4.mynet.com.tw/linebot/images/ch5-8-vsepr-shapes.png"
     },
     {
       "id": 8,
       "answer": "B",
       "explanation": "正四面體的鍵角為 109.5°。這是 4 對電子對互相排斥，使彼此距離最遠時的角度。",
-      "explanation_image": null
+      "explanation_image": "https://lt4.mynet.com.tw/linebot/images/ch5-8-bond-angle.png"
     },
     {
       "id": 9,
       "answer": "B",
       "explanation": "水分子的 H-O-H 鍵角約為 104.5°，比正四面體角度（109.5°）小。",
-      "explanation_image": null
+      "explanation_image": "https://lt4.mynet.com.tw/linebot/images/ch5-8-bond-angle.png"
     },
     {
       "id": 10,
       "answer": "B",
       "explanation": "孤對電子比鍵結電子對佔據更大的空間，產生更強的排斥力，將鍵結電子對推得更近，使鍵角變小。",
-      "explanation_image": null
+      "explanation_image": "https://lt4.mynet.com.tw/linebot/images/ch5-8-bond-angle.png"
     },
     {
       "id": 11,
       "answer": "C",
       "explanation": "H₂O 是極性分子。雖然氧有兩對孤對電子和兩個 O-H 極性鍵，彎曲形狀使偶極矩無法抵消。",
-      "explanation_image": null
+      "explanation_image": "https://lt4.mynet.com.tw/linebot/images/ch5-8-polar-nonpolar.png"
     },
     {
       "id": 12,
       "answer": "C",
       "explanation": "CO₂ 雖然有極性 C=O 鍵，但直線形對稱結構使兩個偶極矩方向相反，完全抵消，是非極性分子。",
-      "explanation_image": null
+      "explanation_image": "https://lt4.mynet.com.tw/linebot/images/ch5-8-polar-nonpolar.png"
     },
     {
       "id": 13,
       "answer": "B",
       "explanation": "CO₂ 是直線形分子，兩個 C=O 極性鍵的偶極矩大小相等、方向相反，互相抵消，淨偶極矩為零。",
-      "explanation_image": null
+      "explanation_image": "https://lt4.mynet.com.tw/linebot/images/ch5-8-polar-nonpolar.png"
     },
     {
       "id": 14,
@@ -151,7 +151,7 @@
       "id": 24,
       "answer": "C",
       "explanation": "鍵角大小：BF₃(120°) > CH₄(109.5°) > NH₃(107°) > H₂O(104.5°)。孤對電子越多，鍵角越小。",
-      "explanation_image": null
+      "explanation_image": "https://lt4.mynet.com.tw/linebot/images/ch5-8-bond-angle.png"
     },
     {
       "id": 25,

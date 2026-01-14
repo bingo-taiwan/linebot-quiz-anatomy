@@ -55,13 +55,13 @@
       "id": 8,
       "answer": "B",
       "explanation": "氧氣分子（O₂）中，兩個氧原子共用 2 對電子，形成雙鍵。每個氧原子還有 2 對孤對電子。",
-      "explanation_image": "https://lt4.mynet.com.tw/linebot/images/ch5-6-bond-types.png"
+      "explanation_image": "https://lt4.mynet.com.tw/linebot/images/ch5-6-bond-types.png?v=2"
     },
     {
       "id": 9,
       "answer": "C",
       "explanation": "氮氣分子（N₂）中，兩個氮原子共用 3 對電子，形成三鍵。每個氮原子還有 1 對孤對電子。這使 N₂ 非常穩定。",
-      "explanation_image": "https://lt4.mynet.com.tw/linebot/images/ch5-6-bond-types.png"
+      "explanation_image": "https://lt4.mynet.com.tw/linebot/images/ch5-6-bond-types.png?v=2"
     },
     {
       "id": 10,
@@ -127,7 +127,7 @@
       "id": 20,
       "answer": "C",
       "explanation": "臭氧（O₃）具有共振結構，雙鍵可以在中心氧與兩個端氧之間「共振」。H₂O、CH₄、HCl 都沒有共振結構。",
-      "explanation_image": "https://lt4.mynet.com.tw/linebot/images/ch5-6-a21-resonance.png"
+      "explanation_image": "https://lt4.mynet.com.tw/linebot/images/ch5-6-a20-ozone-resonance.png"
     },
     {
       "id": 21,
@@ -169,13 +169,13 @@
       "id": 27,
       "answer": "B",
       "explanation": "乙烯（C₂H₄）中，兩個碳原子之間形成雙鍵（C=C），每個碳還與兩個氫原子形成單鍵。",
-      "explanation_image": "https://lt4.mynet.com.tw/linebot/images/ch5-6-bond-types.png"
+      "explanation_image": "https://lt4.mynet.com.tw/linebot/images/ch5-6-bond-types.png?v=2"
     },
     {
       "id": 28,
       "answer": "C",
       "explanation": "乙炔（C₂H₂）中，兩個碳原子之間形成三鍵（C≡C），每個碳只與一個氫原子形成單鍵。",
-      "explanation_image": "https://lt4.mynet.com.tw/linebot/images/ch5-6-bond-types.png"
+      "explanation_image": "https://lt4.mynet.com.tw/linebot/images/ch5-6-bond-types.png?v=2"
     },
     {
       "id": 29,

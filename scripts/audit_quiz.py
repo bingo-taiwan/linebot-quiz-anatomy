@@ -117,11 +117,27 @@ def audit_quiz_pair(quiz_path, answers_path):
     for url, count in Counter(explanation_img_urls).items():
         if count > 1:
             dup_ids = [qid for qid, u in all_explanation_images if u == url]
-            issues.append({
-                'id': dup_ids,
-                'type': 'duplicate_explanation_image',
-                'detail': f'題目 {dup_ids} 使用相同的 explanation_image'
-            })
+            filename = url.split('/')[-1].split('?')[0]  # 移除 query string
+
+            # 判斷是否為「錯誤共用」：檔名包含特定題號但被多題使用
+            match = re.search(r'-[qa](\d+)-', filename)
+            if match:
+                # 檔名有題號，檢查是否被其他題目使用
+                img_id = int(match.group(1))
+                wrong_ids = [qid for qid in dup_ids if qid != img_id]
+                if wrong_ids:
+                    issues.append({
+                        'id': dup_ids,
+                        'type': 'ERROR_duplicate_with_id_mismatch',
+                        'detail': f'圖片 {filename} 含題號 {img_id}，但被題目 {dup_ids} 共用'
+                    })
+            else:
+                # 檔名無題號（通用概念圖），僅供參考
+                issues.append({
+                    'id': dup_ids,
+                    'type': 'INFO_shared_concept_image',
+                    'detail': f'題目 {dup_ids} 共用概念圖 {filename}（如為同類題目則正常）'
+                })
 
     # 檢查 5：題目數量與答案數量不一致
     if len(questions) != len(answers):
@@ -191,23 +207,40 @@ def main():
             total_files += 1
 
             if issues:
-                # 過濾重複的 duplicate 問題（只報告一次）
-                seen_duplicates = set()
-                filtered_issues = []
+                # 過濾重複問題（只報告一次）並區分 ERROR/INFO
+                seen_keys = set()
+                errors = []
+                infos = []
                 for issue in issues:
-                    if 'duplicate' in issue['type']:
-                        key = (issue['type'], tuple(issue['id']) if isinstance(issue['id'], list) else issue['id'])
-                        if key not in seen_duplicates:
-                            seen_duplicates.add(key)
-                            filtered_issues.append(issue)
+                    # 建立唯一 key 避免重複報告
+                    if isinstance(issue['id'], list):
+                        key = (issue['type'], tuple(issue['id']))
                     else:
-                        filtered_issues.append(issue)
+                        key = (issue['type'], issue['id'])
 
-                print(f"  [X] {quiz_file.stem}: {len(filtered_issues)} 個問題")
-                for issue in filtered_issues:
-                    id_str = f"Q{issue['id']}" if issue['id'] else ""
-                    print(f"     {color(issue['type'], None)}: {issue['detail']}")
-                total_issues += len(filtered_issues)
+                    if key in seen_keys:
+                        continue
+                    seen_keys.add(key)
+
+                    # 區分 ERROR 和 INFO
+                    if issue['type'].startswith('INFO_'):
+                        infos.append(issue)
+                    else:
+                        errors.append(issue)
+
+                # 顯示結果
+                if errors:
+                    print(f"  [X] {quiz_file.stem}: {len(errors)} 個錯誤")
+                    for issue in errors:
+                        print(f"     ERROR: {issue['detail']}")
+                    total_issues += len(errors)
+                else:
+                    print(f"  [OK] {quiz_file.stem}: OK")
+
+                # INFO 只在有的時候顯示
+                if infos:
+                    for issue in infos:
+                        print(f"     [i] {issue['detail']}")
             else:
                 print(f"  [OK] {quiz_file.stem}: OK")
 
